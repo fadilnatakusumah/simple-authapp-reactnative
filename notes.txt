@@ -1,0 +1,2 @@
+when using react, use firebase v.4.9.1.
+There's problem when using the latest one (v.5.7)
